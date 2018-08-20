@@ -1,5 +1,5 @@
 # RaspFi
-Use Raspberry Pi with WiFi Access Point<br /><br />
+Using Raspberry Pi as Wifi access point<br /><br />
 ***Functoins:*** <br /><br />
 1. **Rasberry Pi running Acess Point**
 2. **Integrate with Telegram:**
