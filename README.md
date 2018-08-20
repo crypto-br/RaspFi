@@ -8,4 +8,4 @@ Use Raspberry Pi with WiFi Access Point<br /><br />
   - Check interface connection 
   - Check internet connection
 3. **Save access log and export json or txt file**
-
+  - Edit file log_access.sh
