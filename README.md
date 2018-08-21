@@ -1,4 +1,4 @@
-# RaspFi
+# Wi-rasp
 Using Raspberry Pi as Wifi access point<br /><br />
 ***Functoins:*** <br /><br />
 1. **Rasberry Pi running Acess Point**
